@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Raymond Ma
+email: maraymond@yahoo.com
+url: https://rama1997.github.io
+description: "Portfolio site of Raymond Ma"
+keywords: "Raymond Ma, UCI, Computer Science, portfolio"
+skills: "UCI Graduate - Computer Science Degree - BackEnd Developer"
+meta_author: Ma Raymond
 
 # Google webmaster tools
 google_verify:
@@ -32,31 +32,29 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Raymond Ma
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/raymond.ma.925
+  - title: instagram
+    url: https://www.instagram.com/raymond.ma.925/
+  - title: linkedin
+    url: https://www.linkedin.com/in/raymond-ma-a11820194/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/rama1997
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 206 Leland Avenue
+  - line: San Francisco, CA 94134
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Design by: <a href="http://startbootstrap.com">Start Bootstrap</a>'
 
 # Build settings
 markdown: kramdown
