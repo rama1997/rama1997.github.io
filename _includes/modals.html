@@ -19,22 +19,16 @@
                                 <p>{{ post.description }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
-                                {% if post.client %}
-                                    <li>Client:
-                                        <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
-                                        </strong>
-                                    </li>
-                                {% endif %}
                                 {% if post.project-date %}
-                                    <li>Date:
-                                        <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                        </strong>
+                                    <li>Date: {{ post.project-date }}
                                     </li>
                                 {% endif %}
-                                {% if post.category %}
-                                    <li>Service:
-                                        <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
-                                        </strong>
+                                {% if post.language %}
+                                    <li>Language: {{ post.language }}
+                                    </li>
+                                {% endif %}
+                                {% if post.github %}
+                                    <li>Github: {{ post.github }}
                                     </li>
                                 {% endif %}
                             </ul>
