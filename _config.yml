@@ -2,9 +2,9 @@
 title: Raymond Ma
 email: maraymond@yahoo.com
 url: https://rama1997.github.io
-description: "Portfolio site of Raymond Ma"
-keywords: "Raymond Ma, UCI, Computer Science, portfolio"
-skills: "UCI Graduate - Computer Science Degree - BackEnd Developer"
+description: "Portfolio site for Raymond Ma"
+keywords: "Raymond Ma, UCI, Computer Science, portfolio, developer, software, quality"
+skills: "Computer Science Degree from University of California, Irvine"
 meta_author: Ma Raymond
 
 # Google webmaster tools
@@ -33,8 +33,8 @@ color:
 # Footer settings
 footer:
   copyright: Raymond Ma
-  location: Location
-  social: Around the Web
+  location: Contact Info
+  social: Find me here
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -44,17 +44,17 @@ social:
   - title: instagram
     url: https://www.instagram.com/raymond.ma.925/
   - title: linkedin
-    url: https://www.linkedin.com/in/raymond-ma-a11820194/
+    url: https://www.linkedin.com/in/raymondma97/
   - title: github
     url: https://github.com/rama1997
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 415-715-7023
+  - line: maraymond@yahoo.com
   - line: San Francisco, CA
 
 # Credits content
-credits: 'Design by: <a href="http://startbootstrap.com">Start Bootstrap</a>'
+credits: 'Theme Created By: <a href="http://startbootstrap.com">Start Bootstrap</a>'
 
 # Build settings
 markdown: kramdown
