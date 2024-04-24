@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 1
 date: 2020-02-02
 img: prediabetes.png
 alt: image-alt

@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 8
+modal-id: 5
 date: 2024-04-24
-img: nba1.png
+img: basketball_icon.jpg
 alt: image-alt
 project-date: April 2024
 language: Python, Selenium
