@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2023-02-21
-img: minecraft1.png
+img: minecraft1.png, automated-url-opener.png
 alt: image-alt
 project-date: May 2019
 language: Python
